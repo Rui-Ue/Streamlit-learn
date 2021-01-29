@@ -340,5 +340,6 @@ st.markdown(get_table_download_link(df), unsafe_allow_html=True)
 検出を実行（一括）
 検出を一括実行
 で
+（モックアップ）
 
 """
